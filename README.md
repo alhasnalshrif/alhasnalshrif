@@ -10,7 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="a17assn.com" height="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+
+[<img align="left" alt="a17assn.com" style={ height="24px" width="22px"} src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="a17assn | Twitter" height="24px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="a17assn | LinkedIn" height="24px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="a17assn | Instagram" height="24px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
