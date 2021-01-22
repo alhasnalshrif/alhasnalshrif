@@ -1,6 +1,6 @@
 ### Hi there, I'm [alhassn][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/a17assn)
+[![Twitter Follow](https://img.shields.io/twitter/follow/a17assn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/a17assn)
 
 ## I'm a Developer, and Engineering!!
 
