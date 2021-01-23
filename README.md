@@ -1,4 +1,4 @@
-### Hi there, I'm [alhassn][website] 👋
+### Hi there, I'm [alhassn alshiref][website] 👋
 
 ### Connect with me:
 
@@ -11,8 +11,10 @@
 
 ## I'm a Developer, and Engineering!!
 
+- 🔭 I’m currently working as a freelancer !
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects and open youtube channel
+- ⚡ Fun fact: I love anime
 
 
 <br />
