@@ -40,11 +40,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="alhassn GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=a17assn&show_icons=true&hide_border=true" />
-  
-<a href="https://github.com/AhmedElTabarani">
-  <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a17assn&theme=react&layout=compact"/>
-  <img height="150em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=a17assn&show_icons=true&theme=react&include_all_commits=true"/>
-</a>
+  <img align="left" alt="alhassn GitHub Stats" style="float: right" src="https://github-readme-stats.vercel.app/api?username=a17assn&show_icons=true&include_all_commits=true"/>
+
 </details>
 
 [website]: http://afse.pythonanywhere.com/alhssn/
