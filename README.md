@@ -39,8 +39,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="alhassn GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=a17assn&show_icons=true&hide_border=true" />
-  <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElTabarani&theme=react&layout=compact"/>
+  <img style="float: left alt="alhassn GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=a17assn&show_icons=true&hide_border=true" />
+  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a17assn&layout=compact"/>
 
 </details>
 
