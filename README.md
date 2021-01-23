@@ -16,7 +16,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and open youtube channel
 - ⚡ Fun fact: I love anime
 
-
 <br />
 
 ### Languages and Tools:
