@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=alhassn.com&style=for-the-badge&url=https%3A%2F%alhassn.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/a17assn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/a17assn)
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn/a17assn?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a17assn)
 
@@ -40,7 +40,11 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="alhassn GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=a17assn&show_icons=true&hide_border=true" />
-
+  
+<a href="https://github.com/AhmedElTabarani">
+  <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a17assn&theme=react&layout=compact"/>
+  <img height="150em" style="float: right" src="https://github-readme-stats.vercel.app/api?username=a17assn&show_icons=true&theme=react&include_all_commits=true"/>
+</a>
 </details>
 
 [website]: http://afse.pythonanywhere.com/alhssn/
