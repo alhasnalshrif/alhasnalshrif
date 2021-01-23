@@ -1,6 +1,14 @@
 ### Hi there, I'm [alhassn][website] 👋
 
+### Connect with me:
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/a17assn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/a17assn)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[<img align="left" alt="a17assn.com" width=22 src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a17assn)
+
 
 ## I'm a Developer, and Engineering!!
 
@@ -8,14 +16,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and open youtube channel
 
 
-### Connect with me:
 
 
-
-[<img align="left" alt="a17assn.com" width=22 src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="a17assn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="a17assn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="a17assn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
