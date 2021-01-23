@@ -40,7 +40,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="alhassn GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=a17assn&show_icons=true&hide_border=true" />
-  <img align="left" alt="alhassn GitHub Stats" style="float: right" src="https://github-readme-stats.vercel.app/api?username=a17assn&show_icons=true&include_all_commits=true"/>
+  <img height="150em" style="float: left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedElTabarani&theme=react&layout=compact"/>
 
 </details>
 
