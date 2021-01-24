@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/website?label=alhassn.com&style=for-the-badge&url=https%3A%2F%alhassn.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/a17assn?color=1DA1F2&logo=twitter&style=for-the-badge)][website]
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 
 ## I'm a Developer, and Engineering!!
