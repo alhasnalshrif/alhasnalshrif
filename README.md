@@ -59,11 +59,7 @@
 <details>
   
   <summary>:zap: GitHub Stats</summary>
-  
-<a href="https://github.com/alhssn">
-  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhssn&theme=light&hide_langs_below=1" />
-</a>
-  
+
 <a href="https://github.com/alhssn">
  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhssn&show_icons=true&theme=light&line_height=27" alt="alhassn github stats"/>
 </a>
