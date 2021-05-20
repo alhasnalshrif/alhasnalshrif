@@ -64,7 +64,9 @@
  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhssn&show_icons=true&theme=light&line_height=27" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhssn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/alhssn">
+  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhssn&layout=compact&line_height=50"/>
+</a>
 
   
 </details>
