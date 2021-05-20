@@ -51,24 +51,29 @@
 <img align="left"margin="10px" alt="Git" style="max-width:100%;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left"margin="10px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" margin="10px" alt="Terminal" style="max-width:100%;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<imgalign="left" margin="10px" alt="Terminal" style="max-width:100%;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img align="left" margin="10px" alt="Terminal" style="max-width:100%;" width="26px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <img align="left" margin="10px" alt="Terminal" style="max-width:100%;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
 <br/>
 <br/>
 
 <details>
+  
   <summary>:zap: GitHub Stats</summary>
+  
 <a href="https://github.com/alhssn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhassn&theme=light&hide_langs_below=1" />
+  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhssn&theme=light&hide_langs_below=1" />
 </a>
   
-  <a href="https://github.com/alhssn">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alhassn&show_icons=true&theme=light&line_height=27" alt="alhassn github stats"/>
+<a href="https://github.com/alhssn">
+ <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhssn&show_icons=true&theme=light&line_height=27" alt="alhassn github stats"/>
 </a>
-  
-  <img style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alhssn&hide_border=true&layout=compact&show_icons=true" />
-  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alhssn&layout=compact&hide_border=true&show_icons=true"/>
 
+
+<a href="https://github.com/alhssn">
+  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alhssn&layout=compact&hide_border=true&show_icons=true"/>
+</a>
+
+  
 </details>
 
 [website]: http://afse.pythonanywhere.com/alhssn/
