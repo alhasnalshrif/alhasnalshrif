@@ -66,7 +66,7 @@
 
 
 <a href="https://github.com/alhssn">
-  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alhssn&layout=compact&hide_border=true&show_icons=true&theme=light&line_height=27"/>
+  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhssn&hide=issues&show_icons=true"/>
 </a>
 
   
