@@ -56,18 +56,18 @@
   
   <summary>:zap: GitHub Stats</summary>
 
-<a href="https://github.com/alhssn">
- <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhssn&show_icons=true&theme=light&line_height=27" />
+<a href="https://github.com/alhassnalsherif">
+ <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhassnalsherif&show_icons=true&theme=light&line_height=27" />
 </a>
 
-<a href="https://github.com/alhssn">
-  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhssn&layout=compact&line_height=50"/>
+<a href="https://github.com/alhassnalsherif">
+  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhassnalsherif&layout=compact&line_height=50"/>
 </a>
 
   
 </details>
 
-[website]: http://afse.pythonanywhere.com/alhssn/
-[twitter]: https://twitter.com/a17assn
-[instagram]: https://www.instagram.com/a17assn/
+[website]: http://afse.pythonanywhere.com/alhassnalsherif/
+[twitter]: https://twitter.com/alhassnalsherif
+[instagram]: https://www.instagram.com/alhassnalsherif/
 [linkedin]: https://linkedin.com/in/alhassn/
