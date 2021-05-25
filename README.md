@@ -3,7 +3,7 @@
 ### Connect with me:
 
 [![Website](https://img.shields.io/website?label=alhassn.com&style=for-the-badge&url=https%3A%2F%alhassn.com)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/a17assn?color=1DA1F2&logo=twitter&style=for-the-badge)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/alhassnalsherif?color=1DA1F2&logo=twitter&style=for-the-badge)][website]
 
 
 ## I'm a Developer, and Engineering!!
@@ -17,13 +17,13 @@
 
 ## Stay Connected with me !
 
-<a href="https://twitter.com/a17assn">
+<a href="https://twitter.com/alhassnalsherif">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="https://t.me/a17assn">
+<a href="https://t.me/alhassnalsherif">
   <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
-<a href="https://www.instagram.com/a17assn/">
+<a href="https://www.instagram.com/alhassnalsherif/">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a>
 <a href="mailto:a17essn@gmail.com">
@@ -70,4 +70,4 @@
 [website]: http://afse.pythonanywhere.com/alhssn/
 [twitter]: https://twitter.com/alhassnalsherif
 [instagram]: https://www.instagram.com/alhassnalsherif/
-[linkedin]: https://linkedin.com/in/alhassn/
+[linkedin]: https://linkedin.com/in/alhassnalsherif/
