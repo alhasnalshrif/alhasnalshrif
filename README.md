@@ -67,7 +67,7 @@
   
 </details>
 
-[website]: http://afse.pythonanywhere.com/alhassnalsherif/
+[website]: http://afse.pythonanywhere.com/alhssn/
 [twitter]: https://twitter.com/alhassnalsherif
 [instagram]: https://www.instagram.com/alhassnalsherif/
 [linkedin]: https://linkedin.com/in/alhassn/
