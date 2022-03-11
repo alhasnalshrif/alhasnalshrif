@@ -3,7 +3,7 @@
 ### Connect with me:
 
 [![Website](https://img.shields.io/website?label=alhassn.com&style=for-the-badge&url=https%3A%2F%alhassn.com)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/alhasnalsharif?color=1DA1F2&logo=twitter&style=for-the-badge)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/alhasnalshrif?color=1DA1F2&logo=twitter&style=for-the-badge)][website]
 
 
 ## I'm a Developer, and Engineering!!
@@ -17,13 +17,13 @@
 
 ## Stay Connected with me !
 
-<a href="https://twitter.com/alhasnalsharif">
+<a href="https://twitter.com/alhasnalshrif">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="https://t.me/alhasnalsharif">
+<a href="https://t.me/alhasnalshrif">
   <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
-<a href="https://www.instagram.com/alhasnalsharif/">
+<a href="https://www.instagram.com/alhasnalshrif/">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a>
 <a href="mailto:hassanaq98@gmail.com">
@@ -56,18 +56,18 @@
   
   <summary>:zap: GitHub Stats</summary>
 
-<a href="https://github.com/alhasnalsharif">
- <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhasnalsharif&show_icons=true&theme=light&line_height=27" />
+<a href="https://github.com/alhasnalshrif">
+ <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=light&line_height=27" />
 </a>
 
-<a href="https://github.com/alhasnalsharif">
-  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalsharif&layout=compact&line_height=50"/>
+<a href="https://github.com/alhasnalshrif">
+  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&layout=compact&line_height=50"/>
 </a>
 
   
 </details>
 
 [website]: http://afse.pythonanywhere.com/alhssn/
-[twitter]: https://twitter.com/alhasnalsharif
-[instagram]: https://www.instagram.com/alhasnalsharif/
+[twitter]: https://twitter.com/alhasnalshrif
+[instagram]: https://www.instagram.com/alhasnalshrif/
 [linkedin]: https://linkedin.com/in/alhassnalsherif/
