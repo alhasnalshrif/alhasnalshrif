@@ -41,6 +41,7 @@
 <img align="left" margin="10px" alt="Django" width="26px" style="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" margin="10px" alt="Python" width="26px" style="26px"  src="https://github.com/abranhe/programming-languages-logos/raw/master/src/python/python_128x128.png" />
 <img align="left"margin="10px" alt="JavaScript" width="26px"  style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" margin="10px" alt="NodeJs" style="max-width:26px;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left"margin="10px" alt="React" width="26px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left"margin="10px" alt="SQL" width="26px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left"margin="10px" alt="MongoDB" style="max-width:100%;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
@@ -49,7 +50,6 @@
 <img align="left" margin="10px" alt="Terminal" style="max-width:26px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" margin="10px" alt="Terminal" style="max-width:26px;" width="26px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <img align="left" margin="10px" alt="Dart" style="max-width:26px;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-<img align="left" margin="10px" alt="NodeJs" style="max-width:26px;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <br/>
 <br/>
 
