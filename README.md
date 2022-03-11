@@ -49,6 +49,7 @@
 <img align="left" margin="10px" alt="Terminal" style="max-width:26px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" margin="10px" alt="Terminal" style="max-width:26px;" width="26px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
 <img align="left" margin="10px" alt="Dart" style="max-width:26px;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+<img align="left" margin="10px" alt="NodeJs" style="max-width:26px;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <br/>
 <br/>
 
