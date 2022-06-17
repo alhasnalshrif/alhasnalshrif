@@ -1,4 +1,4 @@
-### Hi there, I'm [alhassn alsherif][website] 👋
+### Hi there, I'm [alhasn alshrif][website] 👋
 
 ### Connect with me:
 
@@ -58,11 +58,11 @@
   <summary>:zap: GitHub Stats</summary>
 
 <a href="https://github.com/alhasnalshrif">
- <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=light&line_height=27" />
+ <img  style="float: left" alt="alhasn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=light&line_height=27" />
 </a>
 
 <a href="https://github.com/alhasnalshrif">
-  <img  style="float: left" alt="alhassn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&layout=compact&line_height=50"/>
+  <img  style="float: left" alt="alhasn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&layout=compact&line_height=50"/>
 </a>
 
   
@@ -71,4 +71,4 @@
 [website]: http://afse.pythonanywhere.com/alhssn/
 [twitter]: https://twitter.com/alhasnalshrif
 [instagram]: https://www.instagram.com/alhasnalshrif/
-[linkedin]: https://linkedin.com/in/alhassnalsherif/
+[linkedin]: https://linkedin.com/in/alhasnalshrif/
