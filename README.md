@@ -6,11 +6,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alhasnalshrif?color=1DA1F2&logo=twitter&style=for-the-badge)][website]
 
 
-## I'm a Developer, and Engineering!!
+## I'm a Software Engineer!!
 
 - 🔭 I’m currently working as a freelancer !
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects and open youtube channel
+- 🥅 this year Goals: Contribute more to Open Source projects and open youtube channel
 - ⚡ Fun fact: I love anime
 
 <br />
