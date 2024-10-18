@@ -1,11 +1,5 @@
 ### Hi there, I'm [alhasn alshrif][website] 👋
 
-### Connect with me:
-
-[![Website](https://img.shields.io/website?label=alhassn.com&style=for-the-badge&url=https%3A%2F%alhassn.com)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/alhasnalshrif?color=1DA1F2&logo=twitter&style=for-the-badge)][website]
-
-
 ## I'm a Software Engineer!!
 
 - 🔭 I’m currently working as a freelancer !
