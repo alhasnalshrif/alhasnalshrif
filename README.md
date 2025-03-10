@@ -68,8 +68,4 @@
 
 ---
 
-<div align="center">
-  <i>"Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life, and We will certainly reward them according to the best of their deeds."</i>
-  
-  <img src="https://komarev.com/ghpvc/?username=alhasnalshrif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</div>
+### 📌 "Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life, and We will certainly reward them according to the best of their deeds."
