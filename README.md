@@ -1,64 +1,66 @@
-### Hi there, I'm [alhasn alshrif][website] 👋
+# السلام عليكم ورحمة الله وبركاته  
 
-## I'm a Software Engineer!!
+### Hi there, I'm [Alhasn Alshrif](https://alhasn.vercel.app/) 👋  
 
-- 🔭 I’m currently working as a freelancer !
-- 🌱 I’m currently learning everything 🤣
-- 🥅 this year Goals: Contribute more to Open Source projects and open youtube channel
-- ⚡ Fun fact: I love anime
+## 🚀 Mobile & Backend Developer  
 
-<br />
+I am a passionate **Mobile Developer** specializing in **Flutter**, with experience in **backend development** using **Node.js, Express.js, Bun, and Prisma**. I love building high-performance, scalable applications and contributing to open-source projects.  
 
-## Stay Connected with me !
+### 👨‍💻 About Me  
+- 🔭 I’m currently working as a freelancer  
+- 🌱 I’m currently exploring new technologies and tools  
+- 🥅 2025 Goals: Contribute more to open-source projects and start a YouTube channel  
+- ⚡ Fun fact: I love anime and solving coding challenges  
 
-<a href="https://twitter.com/alhasnalshrif">
-  <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-<a href="https://t.me/alhasnalshrif">
-  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
-</a>
-<a href="https://www.instagram.com/alhasnalshrif/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
-</a>
-<a href="mailto:hassanaq98@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-</a>
-<a href="mailto:hassanaq98@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
+---
 
-<br />
+## 💻 Technologies & Tools  
 
-### Languages and Tools:
+### 🏗️ Mobile Development  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart"/>
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" margin="10px" alt="Django" width="26px" style="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" margin="10px" alt="Python" width="26px" style="26px"  src="https://github.com/abranhe/programming-languages-logos/raw/master/src/python/python_128x128.png" />
-<img align="left"margin="10px" alt="SQL" width="26px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left"margin="10px" alt="Git" style="max-width:100%;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left"margin="10px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" margin="10px" alt="Terminal" style="max-width:26px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" margin="10px" alt="Flutter" style="max-width:26px;" width="26px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-<img align="left" margin="10px" alt="Dart" style="max-width:26px;" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-<br/>
-<br/>
+### 🔥 Backend Development  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prisma-colored.svg" width="36" height="36" alt="Prisma"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/>
+</p>
 
-<details>
-  
-  <summary>:zap: GitHub Stats</summary>
+### ⚙️ Other Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" height="36" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="36" height="36" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="36" height="36" alt="Terminal"/>
+</p>
 
-<a href="https://github.com/alhasnalshrif">
- <img  style="float: left" alt="alhasn GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=light&line_height=27" />
-</a>
+---
 
-<a href="https://github.com/alhasnalshrif">
-  <img  style="float: left" alt="alhasn GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&layout=compact&line_height=50"/>
-</a>
+## 📫 Stay Connected  
+<p align="left">
+  <a href="https://twitter.com/alhasnalshrif"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="36px"/></a>
+  <a href="https://t.me/alhasnalshrif"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="36px"/></a>
+  <a href="https://www.instagram.com/alhasnalshrif/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="36px"/></a>
+  <a href="mailto:hassanaq98@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36px"/></a>
+  <a href="https://linkedin.com/in/alhasnalshrif"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="36px"/></a>
+</p>
 
-  
-</details>
+---
 
-[website]: http://afse.pythonanywhere.com/alhssn/
-[twitter]: https://twitter.com/alhasnalshrif
-[instagram]: https://www.instagram.com/alhasnalshrif/
-[linkedin]: https://linkedin.com/in/alhasnalshrif/
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=light&line_height=27" alt="Alhasn's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&layout=compact&line_height=50" alt="Most Used Languages" />
+</p>
+
+---
+
+### 📌 "Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life, and We will certainly reward them according to the best of their deeds."  
