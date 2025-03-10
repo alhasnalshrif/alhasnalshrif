@@ -1,66 +1,75 @@
-# السلام عليكم ورحمة الله وبركاته  
+# السلام عليكم ورحمة الله وبركاته
 
-### Hi there, I'm [Alhasn Alshrif](https://alhasn.vercel.app/) 👋  
+<div align="center">
+  <h1>Hi there, I'm <a href="https://alhasn.vercel.app/" target="_blank">Alhasn Alshrif</a> 👋</h1>
+  <h3>Mobile & Backend Developer | Flutter Specialist | Open Source Enthusiast</h3>
+</div>
 
-## 🚀 Mobile & Backend Developer  
+## 💫 About Me
+- 🔭 Currently working as a freelance developer building innovative solutions
+- 🚀 Specializing in **Flutter** for mobile and **Node.js ecosystem** for backend
+- 🌱 Continuously exploring emerging technologies and development paradigms
+- 🤝 Looking to collaborate on open source projects that make a difference
+- 🥅 2025 Goals: Launch a YouTube channel sharing coding knowledge & contribute to major open source projects
+- ⚡ Fun fact: Anime enthusiast who solves coding challenges for fun
 
-I am a passionate **Mobile Developer** specializing in **Flutter**, with experience in **backend development** using **Node.js, Express.js, Bun, and Prisma**. I love building high-performance, scalable applications and contributing to open-source projects.  
+## 🛠️ Tech Stack
 
-### 👨‍💻 About Me  
-- 🔭 I’m currently working as a freelancer  
-- 🌱 I’m currently exploring new technologies and tools  
-- 🥅 2025 Goals: Contribute more to open-source projects and start a YouTube channel  
-- ⚡ Fun fact: I love anime and solving coding challenges  
+<div align="center">
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Alhasn's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhasnalshrif&theme=tokyonight&hide_border=true" width="49%" alt="Alhasn's GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&theme=tokyonight&hide_border=true&layout=compact" width="50%" alt="Most Used Languages"/>
+</div>
+
+## 🔍 Featured Projects
+<!-- You can add your top 2-3 pinned repositories here with descriptions -->
+<div align="center">
+  <a href="https://github.com/alhasnalshrif?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-gray?style=for-the-badge&logo=github" alt="View All Projects"/>
+  </a>
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/alhasnalshrif"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://t.me/alhasnalshrif"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.instagram.com/alhasnalshrif/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:hassanaq98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/alhasnalshrif"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
 ---
 
-## 💻 Technologies & Tools  
-
-### 🏗️ Mobile Development  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart"/>
-</p>
-
-### 🔥 Backend Development  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prisma-colored.svg" width="36" height="36" alt="Prisma"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/>
-</p>
-
-### ⚙️ Other Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" height="36" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="36" height="36" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="36" height="36" alt="Terminal"/>
-</p>
-
----
-
-## 📫 Stay Connected  
-<p align="left">
-  <a href="https://twitter.com/alhasnalshrif"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="36px"/></a>
-  <a href="https://t.me/alhasnalshrif"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="36px"/></a>
-  <a href="https://www.instagram.com/alhasnalshrif/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="36px"/></a>
-  <a href="mailto:hassanaq98@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36px"/></a>
-  <a href="https://linkedin.com/in/alhasnalshrif"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="36px"/></a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=light&line_height=27" alt="Alhasn's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&layout=compact&line_height=50" alt="Most Used Languages" />
-</p>
-
----
-
-### 📌 "Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life, and We will certainly reward them according to the best of their deeds."  
+<div align="center">
+  <i>"Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life, and We will certainly reward them according to the best of their deeds."</i>
+  
+  <img src="https://komarev.com/ghpvc/?username=alhasnalshrif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
