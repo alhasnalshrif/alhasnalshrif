@@ -1,109 +1,209 @@
-# السلام عليكم ورحمة الله وبركاته
-
 <div align="center">
 
-# Hi there, I'm <a href="https://alhasn.vercel.app/" target="_blank">Alhasn Alshrif</a> 👋
+# Alhasn Alshrif
 
-### Mobile & Backend Developer | Flutter Specialist | Open Source Enthusiast
+### Software Engineer · AI Builder · Founder
 
-</div>
+**I build intelligent software that reduces manual work and helps businesses move faster.**
 
-## 💫 About Me
+<br>
 
-- 🔭 Currently working as a freelance developer building innovative solutions
-- 🚀 Specializing in **Flutter** for mobile development and the **Node.js ecosystem** for backend development
-- 🌱 Continuously exploring emerging technologies and development paradigms
-- 🤝 Looking to collaborate on meaningful open-source projects
-- 🥅 2026 Goals: Launch a YouTube channel and contribute to major open-source projects
-- ⚡ Fun fact: Anime enthusiast who solves coding challenges for fun
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### 🧰 Tools & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Terminal-054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal"/>
-</p>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alhasn's GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alhasnalshrif&theme=tokyonight&hide_border=true" alt="Alhasn's GitHub Streak"/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages"/>
-
-</div>
-
-## 🔍 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/alhasnalshrif?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-gray?style=for-the-badge&logo=github" alt="View All Projects"/>
+<a href="https://alhasnalshrif.com/">
+  <img src="https://img.shields.io/badge/Website-047857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
-
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://twitter.com/alhasnalshrif">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
-<a href="https://t.me/alhasnalshrif">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-
-<a href="https://www.instagram.com/alhasnalshrif/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:alhasnalshrif@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
 <a href="https://linkedin.com/in/alhasn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:hello@alhasnalshrif.com">
+  <img src="https://img.shields.io/badge/Email-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
+## About
+
+I'm a **Software Engineer** with a background in Electrical & Communication Engineering.
+
+I design and build **AI-powered products, SaaS platforms, web applications, mobile apps, and business automation systems** — connecting product strategy, user experience, engineering, and deployment into one workflow.
+
+My focus is simple:
+
+> **Understand the problem → build the right solution → ship it → improve it.**
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Solutions
+
+AI assistants, RAG systems, AI agents, intelligent workflows, and AI features integrated into existing products.
+
+</td>
+<td width="50%">
+
+### ⚙️ Business Automation
+
+Connecting systems, automating repetitive processes, and turning manual workflows into reliable software.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 SaaS & Web Platforms
+
+Modern SaaS products, dashboards, internal systems, APIs, and scalable web applications.
+
+</td>
+<td width="50%">
+
+### 📱 Mobile Products
+
+Production-ready iOS & Android applications for customers, teams, and field operations.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology
+
+**Frontend**
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
+
+**Backend**
+
+`Node.js` · `Express` · `Supabase` · `Drizzle` · `Prisma`
+
+**Mobile**
+
+`Flutter` · `Dart`
+
+**Data**
+
+`PostgreSQL` · `MySQL` · `SQLite`
+
+**AI & Automation**
+
+`LLMs` · `RAG` · `AI Agents` · `OpenRouter` · `n8n`
+
+**Infrastructure**
+
+`Docker` · `Linux` · `Git` · `GitHub` · `Nginx`
+
+---
+
+## Selected Work
+
+### 🛍️ Emarati Scents — Mobile Commerce
+
+A Flutter mobile commerce experience connected to Shopify, with a dedicated dashboard for content, campaigns, and push notifications.
+
+**Flutter · Shopify · Push Notifications · Dashboard**
+
+> Reached **#22 in the Shopping category on the App Store during its first month.**
+
+---
+
+### 🚌 School Transportation Platform
+
+A connected platform for managing school transportation, drivers, students, parents, routes, and real-time operations.
+
+**Flutter · Node.js · PostgreSQL · Mapbox · OneSignal**
+
+---
+
+### 🤖 AI Customer Support
+
+An AI-powered customer support system designed to provide faster and more consistent responses while keeping human review available for sensitive cases.
+
+**AI · RAG · Automation · APIs**
+
+---
+
+### 🛒 Shopify Automation
+
+Automation and integrations connecting ecommerce operations, orders, inventory, and internal workflows.
+
+**Shopify · APIs · Automation · n8n**
+
+---
+
+## Engineering Philosophy
+
+I don't believe in adding technology just because it's new.
+
+I care about:
+
+- **Clear problems before complex solutions**
+- **Simple architectures that can grow**
+- **Automation where humans shouldn't do repetitive work**
+- **Real products over demos**
+- **Good UX alongside good engineering**
+- **Shipping early and improving continuously**
+
+---
+
+## Currently Exploring
+
+```text
+AI Engineering       ████████████████████  100%
+SaaS Architecture    ██████████████████░░   90%
+Automation           ██████████████████░░   90%
+Full-Stack Systems   █████████████████░░░   85%
+Mobile Engineering   ████████████████░░░░   80%
+Cloud & DevOps       ██████████████░░░░░░   70%
+```
+
+---
+
+## GitHub
+
 <div align="center">
 
-### 📌
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alhasnalshrif&show_icons=true&hide_border=true&theme=transparent&title_color=047857&icon_color=047857&text_color=6B7280&bg_color=00000000&count_private=true" alt="Alhasn's GitHub Stats"/>
 
-> "Whoever does good, whether male or female, and is a believer, We will surely bless them with a good life, and We will certainly reward them according to the best of their deeds."
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhasnalshrif&layout=compact&hide_border=true&theme=transparent&title_color=047857&text_color=6B7280&bg_color=00000000" alt="Top Languages"/>
+
+</div>
+
+---
+
+## Let's Build Something Useful
+
+I'm interested in working on:
+
+**AI Products · SaaS · Automation · Developer Tools · Mobile Products · Open Source**
+
+Have a product idea, a workflow that needs automation, or a system that needs to be built?
+
+**Let's talk.**
+
+<div align="center">
+
+<a href="https://alhasnalshrif.com/">
+  <img src="https://img.shields.io/badge/alhasnalshrif.com-047857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="alhasnalshrif.com"/>
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/alhasn">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/alhasnalshrif">GitHub</a>
+&nbsp; · &nbsp;
+<a href="mailto:hello@alhasnalshrif.com">Email</a>
+
+<br><br>
+
+<sub>Building useful things, from idea to launch.</sub>
 
 </div>
